@@ -1,0 +1,7 @@
+{
+    "name": "PearlRefill",
+    "creator": "J10a1n15",
+    "description": "Refill your Pearls with a command",
+    "version": "0.0.1",
+    "entry": "index.js"
+}
